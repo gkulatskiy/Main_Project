@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+<Questions>
+<Код>8</Код>
+<Question>Вкажіть фізичну величину, яка визначає гучність звуку</Question>
+<Answer1>Амплітуда коливань</Answer1>
+<Answer2>Фаза коливань</Answer2>
+<Answer3>Період коливань</Answer3>
+<Answer4>Частота коливань</Answer4>
+<Answers>
+<Код>8</Код>
+<TrueAnswer>Амплітуда коливань</TrueAnswer>
+</Answers>
+</Questions>
+<Questions>
+<Код>1</Код>
+<Question>Ультразвуком називаються механічні коливання з частотою</Question>
+<Answer1>Від 20 до 20000Гц</Answer1>
+<Answer2>Більше 15000-20000Гц</Answer2>
+<Answer3>Нижче 15000-20000Гц</Answer3>
+<Answer4>Нижче 20Гц</Answer4>
+<Answers>
+<Код>1</Код>
+<TrueAnswer>Більше 15000-20000Гц</TrueAnswer>
+</Answers>
+</Questions>
+<Questions>
+<Код>2</Код>
+<Question>Які тварини користуються ультразвуковою локацією</Question>
+<Answer1>Кішки</Answer1>
+<Answer2>Папуги</Answer2>
+<Answer3>Кажани</Answer3>
+<Answer4>Собаки</Answer4>
+<Answers>
+<Код>2</Код>
+<TrueAnswer>Кажани</TrueAnswer>
+</Answers>
+</Questions>
+<Questions>
+<Код>3</Код>
+<Question>Яка приблизно найвища частота звуку, чутного людиною</Question>
+<Answer1>2Гц</Answer1>
+<Answer2>20Гц</Answer2>
+<Answer3>20000Гц</Answer3>
+<Answer4>200000Гц</Answer4>
+<Answers>
+<Код>3</Код>
+<TrueAnswer>20000Гц</TrueAnswer>
+</Answers>
+</Questions>
+<Questions>
+<Код>4</Код>
+<Question>Які тварини не користуються ультразвуковою локацією?</Question>
+<Answer1>Кити</Answer1>
+<Answer2>Кішки</Answer2>
+<Answer3>Кажани</Answer3>
+<Answer4>Дельфіни</Answer4>
+<Answers>
+<Код>4</Код>
+<TrueAnswer>Кішки</TrueAnswer>
+</Answers>
+</Questions>
+<Questions>
+<Код>5</Код>
+<Question>Яка приблизно найменша частота звуку, чутного людиною</Question>
+<Answer1>2Гц</Answer1>
+<Answer2>20Гц</Answer2>
+<Answer3>20000Гц</Answer3>
+<Answer4>200000Гц</Answer4>
+<Answers>
+<Код>5</Код>
+<TrueAnswer>20Гц</TrueAnswer>
+</Answers>
+</Questions>
+<Questions>
+<Код>6</Код>
+<Question>Вкажіть хвилі, які використовують для діагностики внутрішніх органів</Question>
+<Answer1>Інфразвукові</Answer1>
+<Answer2>Звукові високочастотні</Answer2>
+<Answer3>Звукові середньочастотні</Answer3>
+<Answer4>Ультразвукові</Answer4>
+<Answers>
+<Код>6</Код>
+<TrueAnswer>Ультразвукові</TrueAnswer>
+</Answers>
+</Questions>
+<Questions>
+<Код>7</Код>
+<Question>Вкажіть фізичну величину, яка визначає висоту звуку</Question>
+<Answer1>Частота коливань</Answer1>
+<Answer2>Амплітуда коливань</Answer2>
+<Answer3>Період коливань</Answer3>
+<Answer4>Фаза коливань</Answer4>
+<Answers>
+<Код>7</Код>
+<TrueAnswer>Частота коливань</TrueAnswer>
+</Answers>
+</Questions>
+</dataroot>
